@@ -9,9 +9,6 @@
 
 - 💬 Ask me about **C#, Angular , Laravel ...**
 
-- 📫 How to reach me **damien-payet@hotmail.fr**
-
-- ⚡ Fun fact **I Think i can eat a duck in one time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
