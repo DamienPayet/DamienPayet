@@ -1,14 +1,24 @@
-<h1 align="center">Hi 👋, I'm DAMIEN PAYET</h1>
-<h3 align="center">A passionate Backend developer</h3>
+<h1 align="center">Hi 👋, I'm DAMIEN PAYET</h1> <h3 align="center">A passionate Backend Developer, Trainer, and Tech Enthusiast</h3> <p align="center"> <img src="https://img.shields.io/badge/C%23-.NET-239120?style=flat-square&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/COBOL-013243?style=flat-square&logo=cobol&logoColor=white"/> </p>
+🔭 I’m currently working on SEEUR, a next-gen project to empower businesses.
+🌱 I’m diving into the depths of NUXT 3, mastering the latest web technologies.
+🖥️ Currently, I'm also exploring Mainframe COBOL to integrate legacy systems with modern tech.
+🚀 About Me:
+I'm a passionate backend developer with a deep love for building scalable and efficient solutions. As a developer and trainer, I enjoy sharing my knowledge and bringing out the best in others.
 
-- 🔭 I’m currently working on **SEEUR**
+My expertise spans across C#/.NET, Angular, Laravel, PHP, and Vue.js, and I'm constantly evolving by tackling new challenges in the tech world.
 
-- 🌱 I’m currently learning **NUXT 3**
+I believe in empowering developers to create more, and am currently working on a 2D game in Angular, exploring the world of gaming and web-based experiences. I'm also building a Rich Text Editor (RTE) that surpasses existing options on the market—more customizable, more open, and developer-friendly.
 
-- 👨‍💻 All of my projects are available at [pfo.skulltree.live](pfo.skulltree.live)
+In addition, I'm developing an on-premise SMS 2FA solution, offering free, secure, and flexible two-factor authentication services for both businesses and individuals. This project includes the ability to send and receive SMS via slave devices, ensuring absolute privacy and security.
 
-- 💬 Ask me about **C#, Angular , Laravel ...**
+💬 Ask me about C#, Angular, Laravel, or building powerful backend solutions.
+💡 Always happy to discuss tech innovations and cutting-edge backend systems.
+⚡ Fun Facts:
+I love working on personal tech projects—it's my way of staying at the forefront of technology while fueling my creativity.
+Tech passion drives me: I’m all about creating solutions that change the way businesses operate and help individuals achieve more with less.
+Let's create something amazing, push boundaries, and make the impossible possible!
 
+<p align="center"> <img src="https://img.shields.io/badge/Passionate%20Developer-%F0%9F%92%BB-blueviolet?style=for-the-badge"/> <img src="https://img.shields.io/badge/Trainer%20&%20Mentor-%F0%9F%8E%93-orange?style=for-the-badge"/> <img src="https://img.shields.io/badge/SMS%20Solutions-%F0%9F%93%B1-lightblue?style=for-the-badge"/> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
