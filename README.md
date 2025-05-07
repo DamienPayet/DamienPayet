@@ -14,17 +14,13 @@
 
     Role-based multi-tenant systems with advanced permissioning
 
-    Angular 19 Standalone Components & ngx-translate
-
 🚀 Key Projects:
 
-    SEEUR: an AI-integrated communication hub
+    Orbis – Presentation coming soon ⏳
 
     RTE Builder: a fully customizable rich text editor
 
     On-Prem SMS 2FA: a secure and flexible SMS authentication system with slave device support
-
-    Angular 2D Game: blending tech and creativity in a web-native gaming experience
 
 💡 I build tools that help creators and engineers automate, monetize, and scale—securely and efficiently.
 
